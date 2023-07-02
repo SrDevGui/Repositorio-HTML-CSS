@@ -78,20 +78,22 @@ div.video> iframe{
 }
 
 body{
-  border: 10px, 10px, 10px, 10px;
-  padding: 60px;
+  margin-left: 10px;
+  margin-right: 10px;
+
+  padding: 64px;
   background-color: var(--cor0);
 }
 body>header{
-  margin: -62px;
-  border:10px;
+  margin: -68px;
+  border:30px;
   padding: 10px;
 }
 section{
   background-color: white;
   padding-top: 10px;
   border-radius:20px 10px 10px 10px;
-  margin: 62px;
+  margin: 10px;
   border: 32px;
 
 }
@@ -160,7 +162,7 @@ footer{
   padding: 5px;
 }
 *{
-  margin: 0px;
+  margin: 1px;
   padding: 0px;
 }
 a.externo:after{ 
